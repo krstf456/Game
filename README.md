@@ -1,2 +1,2 @@
 # Game
-This is a text-based game.
+Den här är en text-baserad spel. Målet är att välja en rätt föremål som resulterar att användaren kommer att vinna spelet.
